@@ -25,7 +25,7 @@ The documentation and a more verbose description and reasoning ([Why not Plex/Je
 https://docs.watchtogetherplayer.com/introduction.html
 
 If you want to chat about the project, there is a [Discord](https://discord.gg/W9EkTF83cj) server for it.  
-(Opening an issue here is also possible, but it might take a bit longer for me to respond)
+(Opening an issue/discussion here is also possible, but it might take a bit longer for me to respond)
 
 The project is under development, more features or updates are coming.  
 This is a one-man, part-time operation so the speed of change won't be very fast, there are sometimes longer times with no updates.
@@ -54,6 +54,8 @@ The project has not yet seen any big stress tests with tens or hundreds of users
 ![image2](https://docs.watchtogetherplayer.com/images/media_tab.png)  
 ![image3](https://docs.watchtogetherplayer.com/images/group_tab_create.png)  
 ![image3](https://docs.watchtogetherplayer.com/images/group_user_options.png)  
+![image4](https://docs.watchtogetherplayer.com/images/media_library.png)  
+![image5](https://docs.watchtogetherplayer.com/images/movie_details.png)  
 
 More in the gallery:  
 https://docs.watchtogetherplayer.com/gallery.html
