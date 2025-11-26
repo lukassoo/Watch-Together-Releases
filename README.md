@@ -4,6 +4,8 @@
 
 This is a way to do it.
 
+![image1](https://docs.watchtogetherplayer.com/images/player.png)  
+
 The goal of this project is to allow people in multiple locations to watch any media file together **in sync**.  
 Currently only on desktops. (Windows, Linux, Mac)  
 (Mobile/TV applicaiton are possible)
@@ -26,7 +28,7 @@ The project has not yet seen any big stress tests with tens or hundreds of users
 - Invite system- Create invitations for users to join your server.
 - Watch groups - Creation and joining of a synchronized group of users, watching the same media.
 - Local media - Possible to watch local media files without a server.
-- Custom subtitles - Option to add a [custom subtitle file](subtitle_and_audio_tracks.md#custom-subtitle-file) to currently playing media.
+- Custom subtitles - Option to add a custom subtitle file to currently playing media.
 - Server-side additional subtitles - Possibility to upload subtitle files.
 - Subtitle and audio track choice - Possible to choose for the entire group on play.
 - Server media - The server holds your media files.
@@ -41,8 +43,6 @@ The project has not yet seen any big stress tests with tens or hundreds of users
 - Preloading - When you expect a larger group of people, a regular common gigabit connection probably won't be enough to stream to everyone at once. Thus there needs to be a way to preload files in advance and only keep people in-sync while watching.
 
 ## What does it look like
-
-![image1](https://docs.watchtogetherplayer.com/images/player.png)  
 ![image2](https://docs.watchtogetherplayer.com/images/media_tab.png)  
 ![image3](https://docs.watchtogetherplayer.com/images/group_tab_create.png)  
 ![image3](https://docs.watchtogetherplayer.com/images/group_user_options.png)  
