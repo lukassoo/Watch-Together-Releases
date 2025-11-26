@@ -10,8 +10,14 @@ The goal of this project is to allow people in multiple locations to watch any m
 Currently only on desktops. (Windows, Linux, Mac)  
 (Mobile/TV applicaiton are possible)
 
-This is a **self-hosted standalone client/server** applicaiton written in C# using [Avalonia UI](https://avaloniaui.net/) and [VLC](https://www.videolan.org/). (Not web-based)  
-The source code is not public.
+## Self-hosted
+This is a **self-hosted standalone client/server** applicaiton written in C# using [Avalonia UI](https://avaloniaui.net/) and [VLC](https://www.videolan.org/).  
+**Not web-based**, a good old desktop application, together with the use of VLC, this allows for playback of pretty much any media file you can find.  
+Without the limitations of what a given browser supports in terms of codecs.  
+No transcoding or other processing is happening, the file is simply being streamed across the network and played back as-is.
+
+This does not mean transcoding isn't coming at some point.  
+Not all devices need to play the 4k version and waste all that bandwidth when all they can display is a much lower resolution.
 
 The documentation and a more verbose description and reasoning ([Why not Plex/Jellyfin?](https://docs.watchtogetherplayer.com/reasoning.html), [Where is the source code?](https://docs.watchtogetherplayer.com/open_source.html)):  
 https://docs.watchtogetherplayer.com/introduction.html
