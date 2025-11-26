@@ -19,6 +19,8 @@ No transcoding or other processing is happening, the file is simply being stream
 This does not mean transcoding isn't coming at some point.  
 Not all devices need to play the 4k version and waste all that bandwidth when all they can display is a much lower resolution.
 
+The server is currently only available through a docker-compose file as it requires a database and that takes care of it.
+
 The documentation and a more verbose description and reasoning ([Why not Plex/Jellyfin?](https://docs.watchtogetherplayer.com/reasoning.html), [Where is the source code?](https://docs.watchtogetherplayer.com/open_source.html)):  
 https://docs.watchtogetherplayer.com/introduction.html
 
