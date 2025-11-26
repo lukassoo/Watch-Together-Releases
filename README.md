@@ -56,6 +56,7 @@ The project has not yet seen any big stress tests with tens or hundreds of users
 ![image3](https://docs.watchtogetherplayer.com/images/group_user_options.png)  
 ![image4](https://docs.watchtogetherplayer.com/images/media_library.png)  
 ![image5](https://docs.watchtogetherplayer.com/images/movie_details.png)  
+![image6](https://docs.watchtogetherplayer.com/images/admin_panel.png)  
 
 More in the gallery:  
 https://docs.watchtogetherplayer.com/gallery.html
