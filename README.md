@@ -8,7 +8,7 @@ This is a way to do it.
 
 The goal of this project is to allow people in multiple locations to watch any media file together **in sync**.  
 Currently only on desktops. (Windows, Linux, Mac)  
-(Mobile/TV applicaiton are possible)
+(Mobile/TV applicaitons are possible)
 
 ## Self-hosted
 This is a **self-hosted standalone client/server** applicaiton written in C# using [Avalonia UI](https://avaloniaui.net/) and [VLC](https://www.videolan.org/).  
